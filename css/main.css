@@ -26,6 +26,7 @@ html {
 
 .banner {
   position: absolute;
+  overflow: hidden;
 }
 
 .banner-content {
